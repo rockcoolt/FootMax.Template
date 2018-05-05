@@ -1,1 +1,1 @@
-"# FootMax Template" 
+# FootMax Template
